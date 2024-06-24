@@ -203,9 +203,9 @@ const chatwindowConfig = (isReact = false) => {
                 },
                 footer: {
                     textColor: '#303235',
-                    text: 'Powered by',
-                    company: 'Flowise',
-                    companyLink: 'https://flowiseai.com',
+                    text: 'Created by',
+                    company: 'Flavia',
+                    companyLink: 'https://sensingplaces.com',
                 }
             }`
 }
